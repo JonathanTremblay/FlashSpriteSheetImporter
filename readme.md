@@ -46,6 +46,8 @@ For more details check out the [video on Youtube](https://www.youtube.com/watch?
 
 ## Version History
 
+* 1.2.1
+    * Renamed asmdef file to match namespace.  Jan 13, 2025
 * 1.2.0
     * Updated code for Unity 2021.2+ compatibility. Converted to a package. Excluded files from the Git repository to allow direct installation of the package from GitHub. Jan 17, 2024
 * 1.1.1

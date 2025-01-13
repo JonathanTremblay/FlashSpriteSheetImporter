@@ -1,5 +1,5 @@
 {
-    "name": "com.prankard.flash-sprite-sheet-importer",
+    "name": "Prankard.FlashSpriteSheetImporter",
     "rootNamespace": "",
     "references": [
         "GUID:2c573e6b271651846a79655161004c5b"
